@@ -222,6 +222,7 @@ python3 .github/workflows/check.py
 |ScoringIds                        |[language/asr/conformer](language/asr/conformer)                              |:white\_check\_mark:|                    |
 |TransformerDecoder                |[language/asr/conformer](language/asr/conformer)                              |:white\_check\_mark:|                    |
 |TransformerLM                     |[language/asr/conformer](language/asr/conformer)                              |:white\_check\_mark:|                    |
+|uie\_nano\_pytorch                |[language/nlp/uie\_nano\_pytorch](language/nlp/uie\_nano\_pytorch)            |                    |:white\_check\_mark:|
 |WenetDecoder                      |[language/asr/wenet](language/asr/wenet)                                      |:white\_check\_mark:|                    |
 |WenetEncoder                      |[language/asr/wenet](language/asr/wenet)                                      |:white\_check\_mark:|                    |
 |WenetSpeechDecoder                      |[language/asr/wenet](language/asr/wenet)                                |                    |:white\_check\_mark:|
