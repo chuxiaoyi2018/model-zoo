@@ -157,6 +157,7 @@ python3 .github/workflows/check.py
 |TSN                              |[vision/video-recognition/TSN](vision/video-recognition/TSN/)                                         |                    |:white\_check\_mark:|
 |ultraface                        |[vision/detection/ultraface](vision/detection/ultraface)                                              |                    |:white\_check\_mark:|
 |ultralytics\_yolov3              |[vision/detection/ultralytics-yolov3](vision/detection/ultralytics-yolov3)                            |:white\_check\_mark:|                    |
+|unet                             |[vision/segmentation/unet](vision/segmentation/unet)                                                  |                    |:white\_check\_mark:|
 |unet\_plusplus                   |[vision/segmentation/unet\_plusplus](vision/segmentation/unet_plusplus)                               |:white\_check\_mark:|:white\_check\_mark:|
 |VDSR                             |[vision/super-resolution/VDSR](vision/super-resolution/VDSR)                                          |:white\_check\_mark:|                    |
 |vgg11                            |[vision/classification/vgg11-torch](vision/classification/vgg11-torch)                                |:white\_check\_mark:|                    |
